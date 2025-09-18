@@ -129,7 +129,7 @@ setuptools==69.5.1
 simpleaudio==1.0.4
 simplefix==1.0.17
 six==1.16.0
--e git+https://github.com/tensorflow/models@12353b717be728006b8dc3148a211b746d9c90a8#egg=slim&subdirectory=research\slim
+-e git+https://github.com/tensorflow/models@12353b717be728006b8dc3148a211b746d9c90a8#egg=slim&subdirectory=research/slim
 sniffio==1.3.1
 sounddevice==0.5.1
 soundfile==0.13.1
